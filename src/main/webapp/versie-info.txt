@@ -1,0 +1,6 @@
+<p>
+	Artifact version: ${project.version}
+</p>
+<p>
+	Artifact name: ${project.name}
+</p>
